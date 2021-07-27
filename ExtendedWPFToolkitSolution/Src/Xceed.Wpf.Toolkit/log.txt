@@ -1,0 +1,102 @@
+2021-07-27 14:44:19.133 +06:00 [INF] Loaded 3 extensions
+2021-07-27 14:44:20.712 +06:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.205\
+2021-07-27 14:44:23.798 +06:00 [INF] Initializing upgrade step Select an entrypoint
+2021-07-27 14:44:23.803 +06:00 [INF] Setting entrypoint to only project in solution: C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit\Xceed.Wpf.Toolkit.csproj
+2021-07-27 14:44:23.815 +06:00 [INF] Initializing upgrade step Select project to upgrade
+2021-07-27 14:44:23.926 +06:00 [INF] Initializing upgrade step Back up project
+2021-07-27 14:44:52.429 +06:00 [INF] Skipping upgrade step Back up project
+2021-07-27 14:44:52.432 +06:00 [INF] Upgrade step Back up project skipped
+2021-07-27 14:45:05.620 +06:00 [INF] Initializing upgrade step Convert project file to SDK style
+2021-07-27 14:45:08.375 +06:00 [INF] Skipping upgrade step Convert project file to SDK style
+2021-07-27 14:45:08.376 +06:00 [INF] Upgrade step Convert project file to SDK style skipped
+2021-07-27 14:46:28.051 +06:00 [INF] Initializing upgrade step Clean up NuGet package references
+2021-07-27 14:46:30.608 +06:00 [INF] Reference to .NET Upgrade Assistant analyzer package (Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, version 0.2.236301) needs added
+2021-07-27 14:46:30.619 +06:00 [INF] Packages to be added: Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.2.236301
+2021-07-27 14:46:32.131 +06:00 [INF] Applying upgrade step Clean up NuGet package references
+2021-07-27 14:46:32.138 +06:00 [INF] Adding package reference: Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.2.236301
+2021-07-27 14:46:36.468 +06:00 [ERR] Target is still unavailable after restore. Please verify that the project has been restored.
+2021-07-27 14:46:36.475 +06:00 [FTL] Package analysis failed (analyzer Transitive reference analyzer: Cannot find targets. Please ensure that the project is fully restored.
+2021-07-27 14:46:37.414 +06:00 [ERR] Target is still unavailable after restore. Please verify that the project has been restored.
+2021-07-27 14:46:37.419 +06:00 [FTL] Package analysis failed (analyzer Newtonsoft.Json reference analyzer: Cannot find targets. Please ensure that the project is fully restored.
+2021-07-27 14:46:37.422 +06:00 [WRN] Upgrade step Clean up NuGet package references failed: "Failed": Package analysis failed
+2021-07-27 14:46:40.953 +06:00 [INF] Applying upgrade step Clean up NuGet package references
+2021-07-27 14:46:42.850 +06:00 [ERR] Target is still unavailable after restore. Please verify that the project has been restored.
+2021-07-27 14:46:42.853 +06:00 [FTL] Package analysis failed (analyzer Transitive reference analyzer: Cannot find targets. Please ensure that the project is fully restored.
+2021-07-27 14:46:43.763 +06:00 [ERR] Target is still unavailable after restore. Please verify that the project has been restored.
+2021-07-27 14:46:43.768 +06:00 [FTL] Package analysis failed (analyzer Newtonsoft.Json reference analyzer: Cannot find targets. Please ensure that the project is fully restored.
+2021-07-27 14:46:43.771 +06:00 [WRN] Upgrade step Clean up NuGet package references failed: "Failed": Package analysis failed
+2021-07-27 14:46:59.068 +06:00 [INF] Applying upgrade step Clean up NuGet package references
+2021-07-27 14:47:00.953 +06:00 [ERR] Target is still unavailable after restore. Please verify that the project has been restored.
+2021-07-27 14:47:00.956 +06:00 [FTL] Package analysis failed (analyzer Transitive reference analyzer: Cannot find targets. Please ensure that the project is fully restored.
+2021-07-27 14:47:01.867 +06:00 [ERR] Target is still unavailable after restore. Please verify that the project has been restored.
+2021-07-27 14:47:01.872 +06:00 [FTL] Package analysis failed (analyzer Newtonsoft.Json reference analyzer: Cannot find targets. Please ensure that the project is fully restored.
+2021-07-27 14:47:01.874 +06:00 [WRN] Upgrade step Clean up NuGet package references failed: "Failed": Package analysis failed
+2021-07-27 14:47:18.639 +06:00 [INF] Saving upgrade progress file at C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit\.upgrade-assistant
+2021-07-27 14:47:21.193 +06:00 [INF] Loaded 3 extensions
+2021-07-27 14:47:21.912 +06:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.205\
+2021-07-27 14:47:23.490 +06:00 [INF] Loading upgrade progress file at C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit\.upgrade-assistant
+2021-07-27 14:47:24.670 +06:00 [ERR] Target is still unavailable after restore. Please verify that the project has been restored.
+2021-07-27 14:47:24.698 +06:00 [INF] Initializing upgrade step Back up project
+2021-07-27 14:47:25.769 +06:00 [INF] Applying upgrade step Back up project
+2021-07-27 14:47:35.059 +06:00 [INF] Backing up C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit to C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit.backup
+2021-07-27 14:47:35.089 +06:00 [WRN] Could not copy file C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit\log.txt due to 'The process cannot access the file 'C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit\log.txt' because it is being used by another process.'
+2021-07-27 14:47:39.685 +06:00 [INF] Project backed up to C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit.backup
+2021-07-27 14:47:39.687 +06:00 [INF] Upgrade step Back up project applied successfully
+2021-07-27 14:47:52.216 +06:00 [INF] Initializing upgrade step Convert project file to SDK style
+2021-07-27 14:47:53.154 +06:00 [ERR] Target is still unavailable after restore. Please verify that the project has been restored.
+2021-07-27 14:47:53.159 +06:00 [ERR] Failed to open project C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit\Xceed.Wpf.Toolkit.csproj
+Microsoft.DotNet.UpgradeAssistant.UpgradeException: Cannot find targets. Please ensure that the project is fully restored.
+   at Microsoft.DotNet.UpgradeAssistant.MSBuild.MSBuildProject.GetAllPackageReferenceDependenciesAsync(TargetFrameworkMoniker tfm, CancellationToken token)+MoveNext() in /_/src/components/Microsoft.DotNet.UpgradeAssistant.MSBuild/MSBuildProject.NuGetPackages.cs:line 156
+   at Microsoft.DotNet.UpgradeAssistant.MSBuild.MSBuildProject.GetAllPackageReferenceDependenciesAsync(TargetFrameworkMoniker tfm, CancellationToken token)+System.Threading.Tasks.Sources.IValueTaskSource<System.Boolean>.GetResult()
+   at System.Linq.AsyncEnumerable.<AnyAsync>g__Core|211_0[TSource](IAsyncEnumerable`1 source, Func`2 predicate, CancellationToken cancellationToken) in /_/Ix.NET/Source/System.Linq.Async/System/Linq/Operators/Any.cs:line 58
+   at System.Linq.AsyncEnumerable.<AnyAsync>g__Core|211_0[TSource](IAsyncEnumerable`1 source, Func`2 predicate, CancellationToken cancellationToken) in /_/Ix.NET/Source/System.Linq.Async/System/Linq/Operators/Any.cs:line 58
+   at System.Linq.AsyncEnumerable.<AnyAwaitAsyncCore>g__Core|212_0[TSource](IAsyncEnumerable`1 source, Func`2 predicate, CancellationToken cancellationToken) in /_/Ix.NET/Source/System.Linq.Async/System/Linq/Operators/Any.cs:line 83
+   at System.Linq.AsyncEnumerable.<AnyAwaitAsyncCore>g__Core|212_0[TSource](IAsyncEnumerable`1 source, Func`2 predicate, CancellationToken cancellationToken) in /_/Ix.NET/Source/System.Linq.Async/System/Linq/Operators/Any.cs:line 81
+   at Microsoft.DotNet.UpgradeAssistant.MSBuild.MSBuildProject.IsTransitivelyAvailableAsync(String packageName, CancellationToken token) in /_/src/components/Microsoft.DotNet.UpgradeAssistant.MSBuild/MSBuildProject.NuGetPackages.cs:line 72
+   at System.Linq.AsyncEnumerable.<AnyAwaitAsyncCore>g__Core|212_0[TSource](IAsyncEnumerable`1 source, Func`2 predicate, CancellationToken cancellationToken) in /_/Ix.NET/Source/System.Linq.Async/System/Linq/Operators/Any.cs:line 83
+   at System.Linq.AsyncEnumerable.<AnyAwaitAsyncCore>g__Core|212_0[TSource](IAsyncEnumerable`1 source, Func`2 predicate, CancellationToken cancellationToken) in /_/Ix.NET/Source/System.Linq.Async/System/Linq/Operators/Any.cs:line 81
+   at Microsoft.DotNet.UpgradeAssistant.MSBuild.ComponentIdentifier.GetGeneralProjectComponentsAsync(IProject project, IProjectFile file, CancellationToken token) in /_/src/components/Microsoft.DotNet.UpgradeAssistant.MSBuild/ComponentIdentifier.cs:line 91
+   at Microsoft.DotNet.UpgradeAssistant.MSBuild.ComponentIdentifier.GetComponentsAsync(IProject project, CancellationToken token) in /_/src/components/Microsoft.DotNet.UpgradeAssistant.MSBuild/ComponentIdentifier.cs:line 25
+   at Microsoft.DotNet.UpgradeAssistant.Steps.ProjectFormat.TryConvertProjectConverterStep.InitializeImplAsync(IUpgradeContext context, CancellationToken token)
+2021-07-27 14:47:55.724 +06:00 [INF] Applying upgrade step Convert project file to SDK style
+2021-07-27 14:47:55.728 +06:00 [INF] Converting project file format with try-convert, version 0.7.226301
+2021-07-27 14:48:01.458 +06:00 [INF] [dotnet] Conversion complete!
+2021-07-27 14:48:02.537 +06:00 [INF] Project file converted successfully! The project may require additional changes to build successfully against the new .NET target.
+2021-07-27 14:48:04.057 +06:00 [INF] Upgrade step Convert project file to SDK style applied successfully
+2021-07-27 14:48:05.526 +06:00 [INF] Initializing upgrade step Clean up NuGet package references
+2021-07-27 14:48:07.952 +06:00 [WRN] No version of Microsoft.CSharp found that supports ["net40"]; leaving unchanged
+2021-07-27 14:48:08.934 +06:00 [WRN] No version of System.ComponentModel.Annotations found that supports ["net40"]; leaving unchanged
+2021-07-27 14:48:09.243 +06:00 [WRN] No version of System.Data.DataSetExtensions found that supports ["net40"]; leaving unchanged
+2021-07-27 14:48:09.254 +06:00 [INF] No package updates needed
+2021-07-27 14:48:09.255 +06:00 [INF] Initializing upgrade step Update TFM
+2021-07-27 14:48:09.263 +06:00 [INF] TFM needs updated to net5.0-windows
+2021-07-27 14:48:16.193 +06:00 [INF] Applying upgrade step Update TFM
+2021-07-27 14:48:22.816 +06:00 [INF] Updated TFM to net5.0-windows
+2021-07-27 14:48:22.818 +06:00 [INF] Upgrade step Update TFM applied successfully
+2021-07-27 14:48:29.081 +06:00 [INF] Initializing upgrade step Update NuGet Packages
+2021-07-27 14:48:32.151 +06:00 [INF] Adding Microsoft.Windows.Compatibility 5.0.2
+2021-07-27 14:48:32.159 +06:00 [INF] Packages to be added: Microsoft.Windows.Compatibility, Version=5.0.2
+2021-07-27 14:49:29.206 +06:00 [INF] Saving upgrade progress file at C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit\.upgrade-assistant
+2021-07-27 14:49:37.212 +06:00 [INF] Loaded 3 extensions
+2021-07-27 14:49:37.961 +06:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.205\
+2021-07-27 14:49:39.812 +06:00 [INF] Loading upgrade progress file at C:\Users\saifr\Downloads\wpftoolkit-master\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.Toolkit\.upgrade-assistant
+2021-07-27 14:49:40.151 +06:00 [INF] Initializing upgrade step Back up project
+2021-07-27 14:49:40.157 +06:00 [INF] Initializing upgrade step Convert project file to SDK style
+2021-07-27 14:49:40.162 +06:00 [INF] Initializing upgrade step Clean up NuGet package references
+2021-07-27 14:49:42.161 +06:00 [INF] Adding Microsoft.Windows.Compatibility 5.0.2
+2021-07-27 14:49:42.169 +06:00 [INF] Packages to be added: Microsoft.Windows.Compatibility, Version=5.0.2
+2021-07-27 14:49:45.838 +06:00 [INF] Applying upgrade step Clean up NuGet package references
+2021-07-27 14:49:45.844 +06:00 [INF] Adding package reference: Microsoft.Windows.Compatibility, Version=5.0.2
+2021-07-27 14:50:16.390 +06:00 [INF] Marking package System.Data.DataSetExtensions for removal because it appears to be a transitive dependency
+2021-07-27 14:50:16.408 +06:00 [INF] Removing outdated package reference: System.Data.DataSetExtensions, Version=4.5.0
+2021-07-27 14:50:18.883 +06:00 [INF] Upgrade step Clean up NuGet package references applied successfully
+2021-07-27 14:52:39.903 +06:00 [INF] Initializing upgrade step Update TFM
+2021-07-27 14:52:39.920 +06:00 [INF] Initializing upgrade step Update NuGet Packages
+2021-07-27 14:52:41.542 +06:00 [INF] No package updates needed
+2021-07-27 14:52:41.547 +06:00 [INF] Initializing upgrade step Add template files
+2021-07-27 14:52:41.556 +06:00 [INF] 0 expected template items needed
+2021-07-27 14:52:41.566 +06:00 [INF] Initializing upgrade step Update source code
+2021-07-27 14:52:49.074 +06:00 [INF] Initializing upgrade step Move to next project
+2021-07-27 14:52:49.086 +06:00 [INF] Applying upgrade step Move to next project
+2021-07-27 14:52:49.089 +06:00 [INF] Upgrade step Move to next project applied successfully
+2021-07-27 16:29:42.350 +06:00 [INF] Initializing upgrade step Finalize upgrade

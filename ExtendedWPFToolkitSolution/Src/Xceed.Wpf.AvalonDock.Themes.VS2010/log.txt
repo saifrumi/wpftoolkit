@@ -1,0 +1,51 @@
+2021-07-28 00:25:02.331 +06:00 [INF] Loaded 3 extensions
+2021-07-28 00:25:03.175 +06:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.205\
+2021-07-28 00:25:05.981 +06:00 [INF] Initializing upgrade step Select an entrypoint
+2021-07-28 00:25:05.989 +06:00 [INF] Setting entrypoint to user selected project: D:\Code\opensource\New folder\wpftoolkit\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.AvalonDock.Themes.VS2010\Xceed.Wpf.AvalonDock.Themes.VS2010.csproj
+2021-07-28 00:25:06.000 +06:00 [INF] Initializing upgrade step Select project to upgrade
+2021-07-28 00:25:06.063 +06:00 [INF] Initializing upgrade step Back up project
+2021-07-28 00:25:07.910 +06:00 [INF] Applying upgrade step Back up project
+2021-07-28 00:25:09.381 +06:00 [INF] Backing up D:\Code\opensource\New folder\wpftoolkit\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.AvalonDock.Themes.VS2010 to D:\Code\opensource\New folder\wpftoolkit\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.AvalonDock.Themes.VS2010.backup
+2021-07-28 00:25:09.419 +06:00 [WRN] Could not copy file D:\Code\opensource\New folder\wpftoolkit\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.AvalonDock.Themes.VS2010\log.txt due to 'The process cannot access the file 'D:\Code\opensource\New folder\wpftoolkit\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.AvalonDock.Themes.VS2010\log.txt' because it is being used by another process.'
+2021-07-28 00:25:09.566 +06:00 [INF] Project backed up to D:\Code\opensource\New folder\wpftoolkit\ExtendedWPFToolkitSolution\Src\Xceed.Wpf.AvalonDock.Themes.VS2010.backup
+2021-07-28 00:25:09.570 +06:00 [INF] Upgrade step Back up project applied successfully
+2021-07-28 00:25:10.786 +06:00 [INF] Initializing upgrade step Convert project file to SDK style
+2021-07-28 00:25:11.730 +06:00 [INF] Applying upgrade step Convert project file to SDK style
+2021-07-28 00:25:11.739 +06:00 [INF] Converting project file format with try-convert, version 0.7.226301
+2021-07-28 00:25:14.713 +06:00 [INF] [dotnet] Conversion complete!
+2021-07-28 00:25:15.461 +06:00 [INF] Project file converted successfully! The project may require additional changes to build successfully against the new .NET target.
+2021-07-28 00:25:17.702 +06:00 [INF] Upgrade step Convert project file to SDK style applied successfully
+2021-07-28 00:25:19.389 +06:00 [INF] Initializing upgrade step Clean up NuGet package references
+2021-07-28 00:25:21.945 +06:00 [WRN] No version of Microsoft.CSharp found that supports ["net40"]; leaving unchanged
+2021-07-28 00:25:21.951 +06:00 [WRN] No version of System.Data.DataSetExtensions found that supports ["net40"]; leaving unchanged
+2021-07-28 00:25:21.958 +06:00 [INF] Reference to .NET Upgrade Assistant analyzer package (Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, version 0.2.236301) needs added
+2021-07-28 00:25:21.967 +06:00 [INF] Packages to be added: Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.2.236301
+2021-07-28 00:25:22.688 +06:00 [INF] Applying upgrade step Clean up NuGet package references
+2021-07-28 00:25:22.703 +06:00 [INF] Adding package reference: Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.2.236301
+2021-07-28 00:25:25.748 +06:00 [WRN] No version of Microsoft.CSharp found that supports ["net40"]; leaving unchanged
+2021-07-28 00:25:25.757 +06:00 [WRN] No version of System.Data.DataSetExtensions found that supports ["net40"]; leaving unchanged
+2021-07-28 00:25:25.761 +06:00 [INF] Upgrade step Clean up NuGet package references applied successfully
+2021-07-28 00:25:26.534 +06:00 [INF] Initializing upgrade step Update TFM
+2021-07-28 00:25:26.625 +06:00 [INF] TFM needs updated to net5.0-windows
+2021-07-28 00:25:27.403 +06:00 [INF] Applying upgrade step Update TFM
+2021-07-28 00:25:30.617 +06:00 [INF] Updated TFM to net5.0-windows
+2021-07-28 00:25:30.622 +06:00 [INF] Upgrade step Update TFM applied successfully
+2021-07-28 00:25:31.742 +06:00 [INF] Initializing upgrade step Update NuGet Packages
+2021-07-28 00:25:33.910 +06:00 [INF] Marking package Microsoft.CSharp for removal because it appears to be a transitive dependency
+2021-07-28 00:25:33.926 +06:00 [INF] Marking package System.Data.DataSetExtensions for removal because it appears to be a transitive dependency
+2021-07-28 00:25:33.936 +06:00 [INF] Packages to be removed: Microsoft.CSharp, Version=4.7.0
+System.Data.DataSetExtensions, Version=4.5.0
+2021-07-28 00:25:34.758 +06:00 [INF] Applying upgrade step Update NuGet Packages
+2021-07-28 00:25:34.763 +06:00 [INF] Removing outdated package reference: Microsoft.CSharp, Version=4.7.0
+2021-07-28 00:25:34.769 +06:00 [INF] Removing outdated package reference: System.Data.DataSetExtensions, Version=4.5.0
+2021-07-28 00:25:38.312 +06:00 [INF] Upgrade step Update NuGet Packages applied successfully
+2021-07-28 00:25:39.396 +06:00 [INF] Initializing upgrade step Add template files
+2021-07-28 00:25:39.412 +06:00 [INF] 0 expected template items needed
+2021-07-28 00:25:39.427 +06:00 [INF] Initializing upgrade step Update source code
+2021-07-28 00:25:41.609 +06:00 [INF] Initializing upgrade step Move to next project
+2021-07-28 00:25:42.152 +06:00 [INF] Applying upgrade step Move to next project
+2021-07-28 00:25:42.158 +06:00 [INF] Upgrade step Move to next project applied successfully
+2021-07-28 00:25:44.026 +06:00 [INF] Initializing upgrade step Finalize upgrade
+2021-07-28 00:25:44.912 +06:00 [INF] Applying upgrade step Finalize upgrade
+2021-07-28 00:25:44.918 +06:00 [INF] Upgrade step Finalize upgrade applied successfully
+2021-07-28 00:25:45.499 +06:00 [INF] Upgrade has completed. Please review any changes.
